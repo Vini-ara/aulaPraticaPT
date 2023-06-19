@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5rem;
+    width: 100vw;
+    height: 5rem;
+
+    background: #8bc34a;
+}
+
+header a:first-of-type {
+    margin-right: 1rem;
+}
