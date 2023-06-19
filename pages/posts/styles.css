@@ -1,29 +1,28 @@
-@import url('../styles/global.css');
-@import url('../styles/header.css');
+@import url("../../styles/global.css");
+@import url("../../styles/header.css");
 
 header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 5rem;
-    width: 100vw;
-    height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5rem;
+  width: 100vw;
+  height: 5rem;
 
-    background: #8bc34a;
+  background: #8bc34a;
 }
 
 header a:first-of-type {
-    margin-right: 1rem;
+  margin-right: 1rem;
 }
 
-
 .post {
-    width: 50%;
-    margin: 1rem auto;
+  width: 50%;
+  margin: 1rem auto;
 
-    background: rgba(255, 255, 255, 0.3);
-    border-radius: 1rem;
-    padding: 1rem 3rem;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 1rem;
+  padding: 1rem 3rem;
 
-    cursor: pointer;
+  cursor: pointer;
 }
